@@ -1,6 +1,8 @@
 WebSphere Configuration
 
+1.‘Security’ > ‘Global Security’ > ‘Java Authentication and Authorization Service’ > ‘J2C Authentication Data’ > ‘New’
 
+2.‘Resources’ > ‘JDBC’ > ‘JDBC Providers’ -- In ‘Scope’, choose ‘Cell’.
 
 Q & A
 1.Where to set the port setting?
