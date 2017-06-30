@@ -1,0 +1,4 @@
+WebSphere Configuration
+
+1.Where to set the port setting?
+A: 16)	Go to ‘Servers’ > ‘Server Types’ > ‘WebSphere application servers’ > ‘server1’ > Communications ‘Ports’ 
